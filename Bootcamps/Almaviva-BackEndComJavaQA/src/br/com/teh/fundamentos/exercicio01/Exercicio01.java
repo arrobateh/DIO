@@ -1,8 +1,8 @@
-package br.com.teh.exercicio01;
+package br.com.teh.fundamentos.exercicio01;
 
 import java.util.Scanner;
 
-public class exercicio01 {
+public class Exercicio01 {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         String nome;
